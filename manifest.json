@@ -1,0 +1,10 @@
+{
+    "name": "Reorderer",
+    "version_number": "1.2.0",
+    "website_url": "https://github.com/NoLongerLloyd/ReorderMod",
+    "description": "A mod that randomizes your inventory on level up to add some chaos.",
+    "dependencies": [
+        "bbepis-BepInExPack-5.3.1",
+        "tristanmcpherson-R2API-2.5.28"
+    ]
+}
